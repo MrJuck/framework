@@ -1,0 +1,4 @@
+
+qsquid:UselessImportCheck"ARemove this unused import 'org.apache.commons.lang3.StringUtils'.(Øœ¼ºúÿÿÿÿ8çÈ‡’Þ-
+Hsquid:S1481"*Remove this unused "clazz" local variable.(›ä¼Ü8ï¡ ’Þ-
+Hsquid:S00108")Either remove or fill this block of code.(›ä¼Ü8ï¡ ’Þ-
